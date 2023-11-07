@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dekema9924
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in FullStack Developement
 - 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on anything dev related
