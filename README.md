@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in FullStack Developement
-- 🌱 I’m currently learning WebDev
-- 💞️ I’m looking to collaborate on anything dev related
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently learning WebDev 
+- 💞️ I’m looking to collaborate on anything dev-related or java-related
 - 📫 How to reach me danekema9924@gmail.com
 
 <!---
