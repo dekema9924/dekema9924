@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning WebDev 
-- 💞️ I’m looking to collaborate on anything dev-related or java-related
+- 🌱 Working on multiple frontend and backend projects using JavaScript and Nodejs
+- 💞️ I’m looking to collaborate on some open projects
 - 📫 How to reach me danekema9924@gmail.com
 
 <!---
