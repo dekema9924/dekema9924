@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning WebDev 
-- 💞️ I’m looking to collaborate on anything dev-related or java-related
-- 📫 How to reach me danekema9924@gmail.com
+
+
+- Hey There👋
+- I'm Daniel, a 23-year-old enthusiast of web development and programming with a solid skill set in JavaScript, and React. I'm also open to remote work, so feel free to contact me.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+
 
 <!---
 dekema9924/dekema9924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
