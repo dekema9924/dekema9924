@@ -1,16 +1,23 @@
- # A passionate Full Stack Developer😉
- ###  Learning and building
+# Hi, I'm [Your Name]! 👨‍💻🌙
 
- 
- ---
+**Software Developer** | Passionate about building cool things on the web  
+Always learning, always exploring ✨
 
-- Hey There👋
-- I'm Daniel, a 23-year-old enthusiast of web development and programming with a solid skill set in JavaScript, and React. I'm also open to remote work, so feel free to contact me.
+![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-  ---
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,git,java,mongodb,netlify,nodejs,react,tailwind,vite,vscode&perline=7)](https://skillicons.dev)
+## 🧠 A little more about me...
 
+```js
+const me = {
+  pronouns: "he" | "him",
+  code: [JavaScript, TypeScript, HTML, CSS, Python, Go],
+  tools: [React, Node.js, Express, MongoDB, Tailwind, Docker, Git],
+  architecture: ["microservices", "monorepos", "clean code"],
+  currentFocus: "Full-Stack Web Development",
+  hobbies: ["reading manhwa", "watching anime", "gaming", "open-source"]
+}
 
 
 
