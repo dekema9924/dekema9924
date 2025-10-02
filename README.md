@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👨‍💻🌙
+# Hi, I'm [Daniel Ekema]! 👨‍💻🌙
 
 **Software Developer** | Passionate about building cool things on the web  
 Always learning, always exploring ✨
@@ -12,11 +12,11 @@ Always learning, always exploring ✨
 ```js
 const me = {
   pronouns: "he" | "him",
-  code: [JavaScript, TypeScript, HTML, CSS, Python, Go],
+  code: [JavaScript, TypeScript, HTML, CSS, Python],
   tools: [React, Node.js, Express, MongoDB, Tailwind, Docker, Git],
   architecture: ["microservices", "monorepos", "clean code"],
   currentFocus: "Full-Stack Web Development",
-  hobbies: ["reading manhwa", "watching anime", "gaming", "open-source"]
+  hobbies: ["reading manhwa", "watching anime", "gaming", "open-source", "soccer"]
 }
 
 
