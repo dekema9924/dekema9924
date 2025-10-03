@@ -19,26 +19,14 @@ const me = {
   hobbies: ["reading manhwa", "watching anime", "gaming", "open-source", "soccer"]
 }
 ```
-🌱 Currently Working On
-🚀 Building a full-stack Manga Scraper using MERN, Puppeteer, and Cheerio
-
-📚 Learning Next.js and diving into System Design principles
-
-🛠️ Contributing to open-source projects
 
 🛠 Tech Stack & Tools
 
 
 
 
-
-
-
-
-
-
 📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dekema9924&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekema9924&layout=compact&theme=tokyonight" alt="Daniel's Top Languages" /> </div>
+<div display="flex"  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dekema9924&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekema9924&layout=compact&theme=tokyonight" alt="Daniel's Top Languages" /> </div>
 💬 Connect with Me!
 📫 Email: [youremail@example.com]
 💼 LinkedIn: linkedin.com/in/yourname
