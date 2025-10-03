@@ -18,6 +18,7 @@ const me = {
   currentFocus: "Full-Stack Web Development",
   hobbies: ["reading manhwa", "watching anime", "gaming", "open-source", "soccer"]
 }
+```
 🌱 Currently Working On
 🚀 Building a full-stack Manga Scraper using MERN, Puppeteer, and Cheerio
 
