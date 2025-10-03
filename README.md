@@ -8,7 +8,8 @@ Always learning, always exploring ✨
 ---
 
 ## 🧠 A little more about me...
-js
+
+```js
 const me = {
   pronouns: "he" | "him",
   code: [JavaScript, TypeScript, HTML, CSS, Python],
@@ -17,12 +18,30 @@ const me = {
   currentFocus: "Full-Stack Web Development",
   hobbies: ["reading manhwa", "watching anime", "gaming", "open-source", "soccer"]
 }
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dekema9924&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekema9924&layout=compact&theme=tokyonight" alt="Daniel's Top Languages" />
-</div>
+🌱 Currently Working On
+🚀 Building a full-stack Manga Scraper using MERN, Puppeteer, and Cheerio
+
+📚 Learning Next.js and diving into System Design principles
+
+🛠️ Contributing to open-source projects
+
+🛠 Tech Stack & Tools
 
 
 
 
+
+
+
+
+
+
+📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dekema9924&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekema9924&layout=compact&theme=tokyonight" alt="Daniel's Top Languages" /> </div>
+💬 Connect with Me!
+📫 Email: [youremail@example.com]
+💼 LinkedIn: linkedin.com/in/yourname
+🐦 Twitter/X: @yourhandle
+🌐 Portfolio: yourportfolio.com
+
+I love connecting with new people. If you want to chat, don’t hesitate to reach out! 😊
