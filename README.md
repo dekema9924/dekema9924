@@ -8,8 +8,7 @@ Always learning, always exploring ✨
 ---
 
 ## 🧠 A little more about me...
-
-```js
+js
 const me = {
   pronouns: "he" | "him",
   code: [JavaScript, TypeScript, HTML, CSS, Python],
