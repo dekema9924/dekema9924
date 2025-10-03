@@ -19,18 +19,6 @@ const me = {
   hobbies: ["reading manhwa", "watching anime", "gaming", "open-source", "soccer"]
 }
 ```
-
-🛠 Tech Stack & Tools
-
-
-
-
-📈 GitHub Stats
-<div display="flex"  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dekema9924&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekema9924&layout=compact&theme=tokyonight" alt="Daniel's Top Languages" /> </div>
-💬 Connect with Me!
-📫 Email: [youremail@example.com]
-💼 LinkedIn: linkedin.com/in/yourname
-🐦 Twitter/X: @yourhandle
-🌐 Portfolio: yourportfolio.com
+🌐 Portfolio: [yourportfolio.com](https://dnldev.netlify.app/)
 
 I love connecting with new people. If you want to chat, don’t hesitate to reach out! 😊
